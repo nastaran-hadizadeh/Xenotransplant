@@ -14,6 +14,8 @@ Xenotransplant
 │   ├── Subclustering/
 │   │   ├── Pig_myeloids/
 │   │   ├── Baboon_myeloids/
+│   │   ├── Pig_lymphoids/
+│   │   ├── Baboon_lymphoids/
 │   ├── Gene set scoring/
 │   │   ├── Cell death pathways/
 │   │   ├── Metabolic pathways/
