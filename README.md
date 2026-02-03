@@ -17,6 +17,7 @@ Xenotransplant
 │   │   ├── Pig_lymphoids/
 │   │   ├── Baboon_lymphoids/
 │   │   ├── Cardiomyocytes (CM)/
+│   │   ├── Endothelial cells (EC)/
 │   ├── Gene set scoring/
 │   │   ├── Cell death pathways/
 │   │   ├── Metabolic pathways/
