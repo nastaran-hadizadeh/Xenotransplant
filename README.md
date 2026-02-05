@@ -1,4 +1,4 @@
-# Project discription
+# Project description
 
 
 
