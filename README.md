@@ -22,6 +22,7 @@ Xenotransplant
 │   │   ├── Baboon_lymphoids/
 │   │   ├── Cardiomyocytes (CM)/
 │   │   ├── Endothelial cells (EC)/
+│   │   ├── Fibroblasts (FB)/
 │   │   ├── Timecourse analyses/
 │   ├── Gene set scoring/
 │   │   ├── Cell death pathways/
