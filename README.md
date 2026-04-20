@@ -38,8 +38,7 @@ Xenotransplant
 │   │   ├── 6month_vs_3month/
 │   │   └── PCMV_vs_3month/
 │   ├── EdgeR/
-│   │   ├── REF_control/
-│   │   └── REF_3month/
+│   ├── Proteomics/
 │   └── Functional enrichment analysis/
 │   └── Further_analyses/
 └── Clinical/
