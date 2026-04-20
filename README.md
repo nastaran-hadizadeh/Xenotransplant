@@ -25,9 +25,9 @@ Xenotransplant
 │   │   ├── Fibroblasts (FB)/
 │   │   ├── Timecourse analyses/
 │   ├── Gene set scoring/
-│   │   ├── Cell death pathways/
+│   │   ├── Cell_Death_pathways/
 │   │   ├── Metabolic pathways/
-│   │   ├── OSM signaling/
+│   │   ├── OSM_pathway/
 │   │   └── MP polarization/
 │   ├── Cellchat/
 │   │   ├── Rejection_vs_3month/
